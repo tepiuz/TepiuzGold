@@ -1,0 +1,12 @@
+package-as: TepiuzGold
+
+ignore:
+  - .luarc.json
+  - Assets/.gitkeep
+  - TepiuzGoldDev.toc
+  - tests
+  - work
+
+manual-changelog:
+  filename: CHANGELOG.md
+  markup-type: markdown

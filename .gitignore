@@ -1,0 +1,12 @@
+# BigWigs packager output and local upload secrets
+.release/
+.env
+
+# Packaged archives
+*.zip
+
+# macOS
+.DS_Store
+
+# Dev
+TepiuzGoldDev.toc

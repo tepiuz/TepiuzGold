@@ -1,0 +1,29 @@
+{
+  "runtime.version": "Lua 5.1",
+  "diagnostics.globals": [
+    "C_CurrencyInfo",
+    "C_Texture",
+    "CreateAtlasMarkup",
+    "CreateFrame",
+    "CreateSettingsButtonInitializer",
+    "GameTooltip",
+    "GetMoney",
+    "GetRaceAtlas",
+    "GetRealmName",
+    "GetServerTime",
+    "HIGHLIGHT_FONT_COLOR",
+    "KeybindFrames_InQuickKeybindMode",
+    "MainMenuBarBackpackButton",
+    "NORMAL_FONT_COLOR",
+    "NameUtil",
+    "Settings",
+    "StaticPopup_ShowGenericConfirmation",
+    "TepiuzGoldDB",
+    "UnitExists",
+    "UnitNameUnmodified",
+    "UnitRace",
+    "UnitSex",
+    "hooksecurefunc",
+    "wipe"
+  ]
+}

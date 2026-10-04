@@ -1,0 +1,12 @@
+## Interface: 16001
+## Title: Tepiuz Gold
+## Notes: Shows the gold held by all of your characters directly in the backpack tooltip.
+## Author: Tepiuz
+## Version: @project-version@
+## Category: Inventory
+## IconTexture: Interface\AddOns\TepiuzGold\Assets\icon.png
+## SavedVariables: TepiuzGoldDB
+## X-Curse-Project-ID:
+## X-Wago-ID:
+
+TepiuzGold.lua
