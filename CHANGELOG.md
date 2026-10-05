@@ -1,5 +1,3 @@
-# Changelog
-
 ## 1.0.0
 
 - Show recorded character balances and an account-wide total in Blizzard's backpack tooltip.

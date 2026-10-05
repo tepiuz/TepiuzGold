@@ -6,7 +6,7 @@
 ## Category: Inventory
 ## IconTexture: Interface\AddOns\TepiuzGold\Assets\icon.png
 ## SavedVariables: TepiuzGoldDB
-## X-Curse-Project-ID:
-## X-Wago-ID:
+## X-Curse-Project-ID: 1728860
+## X-Wago-ID: vNAWB8Ko
 
 TepiuzGold.lua
